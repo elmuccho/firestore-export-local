@@ -1,0 +1,15 @@
+node_modules/
+
+service_account_key.json
+images/
+data/
+.env
+firestore.json
+
+*.log
+.DS_Store
+backup/
+*.zip
+.npm/
+.idea/
+.vscode/
